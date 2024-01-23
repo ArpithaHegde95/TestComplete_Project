@@ -1,0 +1,13 @@
+{
+  "Obj_MainWindow":{
+    "PAGE":"MainWindow",
+    "ObjectName":"Obj_MainWindow",
+    "PropertyName1":"WndClass",
+    "PropertyValue1":"OneNote::MainWindow",
+    "PropertyName2":"Visible",
+    "PropertyValue2":"True",
+    "PropertyName3":"NULL",
+    "PropertyValue3":"NULL",
+    "Level":10
+  }
+}

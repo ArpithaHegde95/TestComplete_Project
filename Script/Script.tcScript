@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="APPLICATIONFEATUREPAGE">
+			<child name="SAMPLEAPP1_SECTION" key="{777D4478-B46C-4460-A21A-8D56921C4F33}" path="SAMPLEAPP1_SECTION.js" />
+			<child name="SAMPLEAPP2_SECTION" key="{5263563E-8749-47A5-AF4F-CC800A4DC68E}" path="SAMPLEAPP2_SECTION.js" />
+		</folder>
+		<folder name="OBJECTREPO">
+			<child name="COMMON_OBJ" key="{5E0629D2-3438-46D6-9BC8-F01CAB3F8D1F}" path="COMMON_OBJ.js" />
+			<child name="MAINWND_OBJ" key="{A6430F1A-4E0A-47B4-9988-C2FFE8863644}" path="MAINWND_OBJ.js" />
+			<child name="TAB_OBJ" key="{931D06B6-E3FF-496A-9A54-5D1B4BB05052}" path="TAB_OBJ.js" />
+		</folder>
+		<folder name="COMMONFUNCTION">
+			<child name="COMMONFILES" key="{38035D48-4E55-476C-A5C1-F87B39515C02}" path="COMMONFILES.js" />
+		</folder>
+		<folder name="ONENOTE_TC">
+			<child name="ONENOTE_FUNCTIONALITY_TC" key="{C789EB23-EF5D-4C60-BBFB-83E77E448642}" path="ONENOTE_FUNCTIONALITY_TC.js" />
+		</folder>
+		<folder name="GENERICLIBRARY">
+			<child name="DATABASE_RELATED" key="{E8A1C5A2-9883-41B7-92AD-8C461514A548}" path="DATABASE_RELATED.js" />
+		</folder>
+	</children>
+</Root>

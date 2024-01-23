@@ -1,0 +1,34 @@
+﻿//USEUNIT COMMONFILES
+//USEUNIT SAMPLEAPP1_SECTION
+//USEUNIT SAMPLEAPP2_SECTION
+
+//Testcase to verify the files in SampleApplication tab
+function Verify_Files_SampleApplication1(wndname,titleName)
+{
+  ExplicitDelay(10000, "Wait until application is opened");
+  //Function to opening the application
+  OpenApplication();
+  //Function to verify the title of the application
+  SampleApplication1_Title(titleName);
+  //Function to verify sample application
+  FileAttactment_Verification_SampleApplication1()
+  //Function to close the project
+  Closing_Project(wndname)
+}
+
+//Testcase to set title and get Date value
+function Get_DateTime(wndname,titleName)
+{
+  ExplicitDelay(10000, "Wait until application is opened");
+  //Function to opening the application
+  OpenApplication()
+  //Function to set address 
+  Setting_Title_SampleApplication2(titleName)
+  //Function to display date and time
+  Display_DateTime_SampleApplication2()
+  //Function to close the project
+  Closing_Project(wndname)
+}
+
+
+

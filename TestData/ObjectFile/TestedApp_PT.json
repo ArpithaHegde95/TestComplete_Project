@@ -1,0 +1,13 @@
+{
+  "Obj_TestedApp":{
+    "PAGE":"TestedApp_PT",
+    "ObjectName":"Obj_TestedApp",
+    "PropertyName1":"Name",
+    "PropertyValue1":"Process(\"ONENOTE\")",
+    "PropertyName2":"NULL",
+    "PropertyValue2":"NULL",
+    "PropertyName3":"NULL",
+    "PropertyValue3":"NULL",
+    "Level":10
+  }
+}

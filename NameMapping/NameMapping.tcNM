@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{75A6B5A4-E0C2-4D8A-92C9-63B705B614BC}">
+				<TypeInfo Item0="{BC830E83-D56F-4169-831D-3A5272EF0562}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="Microsoft_WindowsCalculator" Key="{FCAC0841-280A-4DA3-812B-8AA856A11D75}">
+						<TypeInfo Item0="{17EF47C0-D915-43EA-8D86-A2368491328B}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Microsoft.WindowsCalculator" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Calculator" Key="{37CDCA96-1E6E-4BD1-A1D5-867ADF4F2A6E}" ExtendedFind="True">
+								<Image FileName="-90414023" Left="8" Top="1" Right="415" Bottom="667" />
+								<TypeInfo Item0="{021714CE-E382-4D7B-AC4F-B4D305176834}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Windows.UI.Core.CoreWindow" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Calculator" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="Postman" Key="{43704048-2945-4642-B131-70CE3DAFEE39}">
+						<TypeInfo Item0="{64E52404-E606-4FD7-82AE-18D151A21A94}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Postman" />
+							</Property>
+							<Property Name="Index">
+								<Value Value="1" Type="0" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="get_aaaaa" Key="{21777E8A-E518-4DF4-8288-34A95D48CDE0}" ExtendedFind="True">
+								<Image FileName="-2036476799" Left="0" Top="0" Right="1294" Bottom="807" />
+								<TypeInfo Item0="{740ADD80-1A2A-4592-8B87-BF6942E3419B}" />
+								<Properties>
+									<Property Name="FrameworkId">
+										<Value Value="Win32" />
+									</Property>
+									<Property Name="ClassName">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+									<Property Name="LocalizedControlType">
+										<Value Value="pane" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="get_aaaaa" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Chrome_Legacy_Window" Key="{BB133958-8A80-4D4B-8FAB-8953510143CF}" ExtendedFind="True">
+										<Image FileName="-2036476799" Left="0" Top="0" Right="1294" Bottom="807" />
+										<TypeInfo Item0="{3D09BEE6-D31E-475C-BADB-6B6781E994CE}" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="Win32" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="Chrome_RenderWidgetHostHWND" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="document" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="Chrome_Legacy_Window" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="ONENOTE" Key="{56412B1E-5ED1-4C1F-80CB-024EE8F743DF}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="ONENOTE" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Samp_OneNote" Key="{32869EB5-FFE9-4AAC-8486-5CC657A5C6C5}">
+								<Image FileName="758174028" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<Properties>
+									<Property Name="FrameworkId">
+										<Value Value="Win32" />
+									</Property>
+									<Property Name="ClassName">
+										<Value Value="Framework::CFrame" />
+									</Property>
+									<Property Name="LocalizedControlType">
+										<Value Value="window" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="Samp_OneNote" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="OneNote_MainWindow" Key="{DA226324-A60C-46AB-B164-5CED0B899639}">
+										<Image FileName="758174028" Left="0" Top="65" Right="1920" Bottom="1040" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="Win32" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="OneNote::MainWindow" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="pane" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="OneNote_NavigationUI" Key="{3E652CF0-C63C-47A6-AB41-C7BDC240FAE0}">
+												<Image FileName="758174028" Left="189" Top="65" Right="1920" Bottom="109" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="Win32" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="OneNote::NavigationUI" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="pane" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="OneNote_NavigationUIHost" Key="{04664428-D702-4AAB-8E5E-63D0BEB28AB4}">
+														<Image FileName="758174028" Left="189" Top="65" Right="1920" Bottom="109" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="Win32" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="OneNote::NavigationUIHost" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="pane" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="NetUIHWNDElement" Key="{7AD3F96C-5E4D-46F8-8E3D-887F480B4D10}">
+																<Image FileName="758174028" Left="189" Top="65" Right="1920" Bottom="109" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="Win32" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NetUIHWNDElement" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="Pane" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="New_Section_1" Key="{DBD17418-E1EA-4621-AFA2-66433D371FE9}">
+																		<Image FileName="758174028" Left="210" Top="83" Right="285" Bottom="98" />
+																		<TypeInfo Item0="{89A0F7F3-0B31-43E3-9EED-ACEB82BB7B80}" />
+																		<Properties>
+																			<Property Name="Text">
+																				<Value Value="New Section 1" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="Section_Name_Textbox" Key="{2D3EF7A9-3C1C-4C9A-B1CC-EF813E606170}">
+																		<Image FileName="2059213302" Left="203" Top="82" Right="293" Bottom="99" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="Win32" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="NetUISectionTabEdit" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="Edit Box" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Section_Name_Textbox" />
+																			</Property>
+																			<Property Name="ObjectGroupIndex">
+																				<Value Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="RichEdit_Control" Key="{787FC53E-2ECE-491F-BF4D-FEEE7E11031E}">
+																				<Image FileName="2059213302" Left="203" Top="82" Right="293" Bottom="99" />
+																				<TypeInfo Item0="{A912F568-A0F2-4F1B-A580-24FA27F68DF7}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="Win32" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="RICHEDIT60W" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="edit" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="RichEdit_Control" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="OneNote_CWorkspace" Key="{4BB152F1-F903-435F-ABC2-F5BDE71BF941}">
+												<Image FileName="-1950278885" Left="190" Top="109" Right="1709" Bottom="1040" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="Win32" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="OneNote::CWorkspace" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="pane" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="OneNote_Page" Key="{CA1C68F3-51AF-4102-ABB1-584B5A464552}">
+														<Image FileName="-1950278885" Left="190" Top="109" Right="1709" Bottom="1040" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="Win32" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="pane" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="OneNote_Page" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Samp" Key="{C39FE583-F39E-4C0D-AC62-50A3116F630D}">
+																<Image FileName="-1950278885" Left="190" Top="109" Right="1692" Bottom="1023" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="OneNote page surface" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Samp" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Page_title" Key="{7D815D08-4679-4CD9-B3E5-B2E58DDD07B6}">
+																		<Image FileName="-1950278885" Left="228" Top="128" Right="453" Bottom="161" />
+																		<TypeInfo Item0="{89A0F7F3-0B31-43E3-9EED-ACEB82BB7B80}" />
+																		<Properties>
+																			<Property Name="ClassName">
+																				<Value Value="" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="document" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Page_title" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Net_UI_Tool_Window" Key="{99348F19-3BC4-42DA-8F97-3AFF4FC67EF7}">
+								<Image FileName="-1564562428" Left="0" Top="0" Right="230" Bottom="293" />
+								<Properties>
+									<Property Name="FrameworkId">
+										<Value Value="Win32" />
+									</Property>
+									<Property Name="ClassName">
+										<Value Value="Net UI Tool Window" />
+									</Property>
+									<Property Name="LocalizedControlType">
+										<Value Value="menu" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="NetUIToolWindow" Key="{61356A3D-0884-4535-82B7-6894D2705C71}">
+										<Image FileName="-1564562428" Left="0" Top="0" Right="230" Bottom="293" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="Win32" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="NetUIToolWindow" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="Menu" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="Context_Menu" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Rename" Key="{DF76090E-7BAB-4FFC-ACA6-B73A2BD1CA29}">
+												<Image FileName="-1564562428" Left="39" Top="8" Right="82" Bottom="23" />
+												<TypeInfo Item0="{89A0F7F3-0B31-43E3-9EED-ACEB82BB7B80}" />
+												<Properties>
+													<Property Name="Text">
+														<Value Value="Rename" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="New_Section" Key="{48293A5D-6B85-42E8-A364-654574FD838D}" ExtendedFind="True">
+												<Image FileName="1230416592" Left="39" Top="182" Right="105" Bottom="197" />
+												<TypeInfo Item0="{89A0F7F3-0B31-43E3-9EED-ACEB82BB7B80}" />
+												<Properties>
+													<Property Name="Text">
+														<Value Value="New Section" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Delete" Key="{643A753C-2105-4BDB-961C-41D4478CF505}">
+												<Image FileName="-1708423100" Left="39" Top="64" Right="72" Bottom="79" />
+												<TypeInfo Item0="{89A0F7F3-0B31-43E3-9EED-ACEB82BB7B80}" />
+												<Properties>
+													<Property Name="Text">
+														<Value Value="Delete" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="NetUIToolWindow2" Key="{EAA46907-04D6-4223-A74B-099C1F1A6E80}">
+										<Image FileName="-118390439" Left="0" Top="0" Right="166" Bottom="119" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="Win32" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="NetUIToolWindow" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="Menu" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="New_Section" Key="{4758A82C-43A0-4100-A50A-BFE74FFF2D78}">
+												<Image FileName="-118390439" Left="39" Top="8" Right="105" Bottom="23" />
+												<TypeInfo Item0="{89A0F7F3-0B31-43E3-9EED-ACEB82BB7B80}" />
+												<Properties>
+													<Property Name="Text">
+														<Value Value="New Section" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="PC_and_Testing_Device_details_OneNote" Key="{DCC2A439-D1E9-4608-822A-FF57B237A901}">
+								<Image FileName="104147347" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<Properties>
+									<Property Name="FrameworkId">
+										<Value Value="Win32" />
+									</Property>
+									<Property Name="ClassName">
+										<Value Value="Framework::CFrame" />
+									</Property>
+									<Property Name="LocalizedControlType">
+										<Value Value="window" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="PC_and_Testing_Device_details_OneNote" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="OneNote_MainWindow" Key="{C853977B-A27D-46D3-9829-42BE02EF8FC2}">
+										<Image FileName="104147347" Left="0" Top="65" Right="1920" Bottom="1040" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="Win32" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="OneNote::MainWindow" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="pane" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="OneNote_NavigationUI" Key="{424FDE44-0CF4-4CD2-AF5F-DAE14B2D111B}">
+												<Image FileName="104147347" Left="189" Top="65" Right="1920" Bottom="135" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="Win32" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="OneNote::NavigationUI" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="pane" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="OneNote_NavigationUIHost" Key="{9D480EB6-C418-46E9-BCC7-D97D9CD2DA62}">
+														<Image FileName="104147347" Left="189" Top="65" Right="1920" Bottom="135" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="Win32" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="OneNote::NavigationUIHost" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="pane" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="NetUIHWNDElement" Key="{54B73284-2367-4433-9A28-C9C78AD650FA}">
+																<Image FileName="104147347" Left="189" Top="65" Right="1920" Bottom="135" />
+																<TypeInfo Item0="{CD1C584A-59DF-4C8B-B95D-BC69B4861C8D}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="Win32" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NetUIHWNDElement" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="Pane" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="sample" Key="{5315C46E-F762-4913-A2B8-02327390D316}">
+																		<Image FileName="-559462807" Left="463" Top="85" Right="501" Bottom="100" />
+																		<TypeInfo Item0="{89A0F7F3-0B31-43E3-9EED-ACEB82BB7B80}" />
+																		<Properties>
+																			<Property Name="Text">
+																				<Value Value="sample" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="DF_PAC" Key="{82CA4D83-777B-46E4-BC33-5655D5BC1AAA}">
+																		<Image FileName="1504823371" Left="49" Top="236" Right="89" Bottom="251" />
+																		<TypeInfo Item0="{8D7BFA3E-A1F3-41AD-B04E-57D0C2502A38}" />
+																		<Properties>
+																			<Property Name="Text">
+																				<Value Value="DF PAC" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="OneNote" Key="{49C60757-76F5-45D4-837B-C5BD4BC80A70}">
+								<Image FileName="581848612" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<Properties>
+									<Property Name="FrameworkId">
+										<Value Value="Win32" />
+									</Property>
+									<Property Name="ClassName">
+										<Value Value="Framework::CFrame" />
+									</Property>
+									<Property Name="LocalizedControlType">
+										<Value Value="window" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="OneNote" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="OneNote_MainWindow" Key="{152DF84A-E297-4FD5-8B7D-A31E3ACFA92C}">
+										<Image FileName="581848612" Left="0" Top="65" Right="1920" Bottom="1040" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="Win32" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="OneNote::MainWindow" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="pane" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="OneNote_NavigationUI" Key="{043F64D2-AB1D-4FA7-9718-F151C26DACAC}">
+												<Image FileName="581848612" Left="189" Top="65" Right="1920" Bottom="109" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="Win32" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="OneNote::NavigationUI" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="pane" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="OneNote_NavigationUIHost" Key="{E8612C62-5EF7-4A04-9B9A-98921BB5C8F8}">
+														<Image FileName="581848612" Left="189" Top="65" Right="1920" Bottom="109" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="Win32" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="OneNote::NavigationUIHost" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="pane" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="NetUIHWNDElement" Key="{ACA48784-2E24-4078-B1C0-1CA1B811F63D}">
+																<Image FileName="581848612" Left="189" Top="65" Right="1920" Bottom="109" />
+																<TypeInfo Item0="{CD1C584A-59DF-4C8B-B95D-BC69B4861C8D}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="Win32" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NetUIHWNDElement" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="Pane" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="TODO_LIST_OneNote" Key="{2331034F-7A64-4A62-88A4-BDCB7AE5AD24}">
+								<Image FileName="-1627687667" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<Properties>
+									<Property Name="FrameworkId">
+										<Value Value="Win32" />
+									</Property>
+									<Property Name="ClassName">
+										<Value Value="Framework::CFrame" />
+									</Property>
+									<Property Name="LocalizedControlType">
+										<Value Value="window" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="TODO_LIST_OneNote" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="OneNote_MainWindow" Key="{A76DC02F-C32E-4BD8-A46E-E71EC65731C7}">
+										<Image FileName="-1627687667" Left="0" Top="65" Right="1920" Bottom="1040" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="Win32" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="OneNote::MainWindow" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="pane" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="OneNote_NavigationUI" Key="{C46111D9-1F10-447E-973C-EAC5BEBE90F8}">
+												<Image FileName="652687107" Left="189" Top="65" Right="1920" Bottom="109" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="Win32" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="OneNote::NavigationUI" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="pane" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="OneNote_NavigationUIHost" Key="{94113818-3A04-4508-BF74-6F8CC20F2D84}">
+														<Image FileName="652687107" Left="189" Top="65" Right="1920" Bottom="109" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="Win32" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="OneNote::NavigationUIHost" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="pane" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="NetUIHWNDElement" Key="{E5AEA4B2-8DB8-4F6F-AE8E-19CD1AE2FD9D}">
+																<Image FileName="652687107" Left="189" Top="65" Right="1920" Bottom="109" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="Win32" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NetUIHWNDElement" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="Pane" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="sample" Key="{D059BBBB-5F15-433C-8023-5A0EB3C6CB19}">
+																		<Image FileName="652687107" Left="463" Top="83" Right="501" Bottom="98" />
+																		<TypeInfo Item0="{89A0F7F3-0B31-43E3-9EED-ACEB82BB7B80}" />
+																		<Properties>
+																			<Property Name="Text">
+																				<Value Value="sample" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Untitled_page_OneNote" Key="{66C99359-A1C3-47D1-89AE-C27432BDCB99}">
+								<Image FileName="2035676009" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<Properties>
+									<Property Name="FrameworkId">
+										<Value Value="Win32" />
+									</Property>
+									<Property Name="ClassName">
+										<Value Value="Framework::CFrame" />
+									</Property>
+									<Property Name="LocalizedControlType">
+										<Value Value="window" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="Untitled_page_OneNote" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="OneNote_MainWindow" Key="{28F7BBCC-D916-4B91-B354-B90DFFE401EE}">
+										<Image FileName="2035676009" Left="0" Top="65" Right="1920" Bottom="1040" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="Win32" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="OneNote::MainWindow" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="pane" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="OneNote_NavigationUI" Key="{9B8CFA04-1511-482B-A8B0-0CC6DB677023}">
+												<Image FileName="2035676009" Left="189" Top="65" Right="1920" Bottom="109" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="Win32" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="OneNote::NavigationUI" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="pane" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="OneNote_NavigationUIHost" Key="{7F71EFC1-3BEE-4FF9-AC2D-9E9ABEAC18E8}">
+														<Image FileName="2035676009" Left="189" Top="65" Right="1920" Bottom="109" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="Win32" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="OneNote::NavigationUIHost" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="pane" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="NetUIHWNDElement" Key="{335506FC-2884-4202-97A0-ED2AE583A561}">
+																<Image FileName="2035676009" Left="189" Top="65" Right="1920" Bottom="109" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="Win32" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NetUIHWNDElement" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="Pane" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="New_Section_1" Key="{9DC42282-83DD-4FA9-A000-F757FBB6EF02}">
+																		<Image FileName="2035676009" Left="530" Top="83" Right="605" Bottom="98" />
+																		<TypeInfo Item0="{89A0F7F3-0B31-43E3-9EED-ACEB82BB7B80}" />
+																		<Properties>
+																			<Property Name="Text">
+																				<Value Value="New Section 1" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="TODO_LIST2_OneNote" Key="{4C8C393D-75E5-4F18-891B-94B8AA5D5A14}">
+								<Image FileName="-1252812129" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<Properties>
+									<Property Name="FrameworkId">
+										<Value Value="Win32" />
+									</Property>
+									<Property Name="ClassName">
+										<Value Value="Framework::CFrame" />
+									</Property>
+									<Property Name="LocalizedControlType">
+										<Value Value="window" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="TODO_LIST2_OneNote" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="OneNote_MainWindow" Key="{5678FEA4-D55A-4303-BBAF-FECD85540D66}">
+										<Image FileName="-1252812129" Left="0" Top="65" Right="1920" Bottom="1040" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="Win32" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="OneNote::MainWindow" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="pane" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="OneNote_NavigationUI" Key="{ABDCC183-4BE8-450B-AC06-85A1AD930123}">
+												<Image FileName="-1252812129" Left="0" Top="65" Right="190" Bottom="1040" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="Win32" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="OneNote::NavigationUI" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="pane" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="OneNote_NavigationUIHost" Key="{CC407B60-E438-42AF-BF1F-C082059A863A}">
+														<Image FileName="-1252812129" Left="0" Top="65" Right="190" Bottom="1040" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="Win32" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="OneNote::NavigationUIHost" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="pane" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="NetUIHWNDElement" Key="{D19B8223-6208-40F7-BAEA-534D5F76B78A}">
+																<Image FileName="-1252812129" Left="0" Top="65" Right="190" Bottom="1040" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="Win32" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NetUIHWNDElement" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="Pane" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="DF_PAC" Key="{ECAAC6F7-1577-4CEB-A319-9812099E0D49}">
+																		<Image FileName="-1252812129" Left="41" Top="228" Right="81" Bottom="243" />
+																		<TypeInfo Item0="{89A0F7F3-0B31-43E3-9EED-ACEB82BB7B80}" />
+																		<Properties>
+																			<Property Name="Text">
+																				<Value Value="DF PAC" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="explorer" Key="{309721EF-554B-4299-8BC7-500512C4FE11}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Shell_TrayWnd" Key="{D609809F-CE02-4FA5-902B-CB81FDFAB5A7}">
+								<Image FileName="-850198597" Left="0" Top="0" Right="1920" Bottom="40" />
+								<Properties>
+									<Property Name="FrameworkId">
+										<Value Value="Win32" />
+									</Property>
+									<Property Name="ClassName">
+										<Value Value="Shell_TrayWnd" />
+									</Property>
+									<Property Name="LocalizedControlType">
+										<Value Value="pane" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="ReBarWindow32" Key="{4466A506-E45F-4F5A-995A-CA19D0F5D0EB}">
+										<Image FileName="-850198597" Left="382" Top="0" Right="1671" Bottom="40" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="Win32" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="ReBarWindow32" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="Rebar" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Running_applications" Key="{547DC62D-D29E-47BE-8199-C65CB490C150}">
+												<Image FileName="-850198597" Left="384" Top="0" Right="1596" Bottom="40" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="Win32" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="MSTaskSwWClass" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="pane" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Running_applications" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Running_applications" Key="{692C88A7-A18A-4EC5-8132-69F0B0F9B33F}">
+														<Image FileName="-850198597" Left="384" Top="0" Right="1596" Bottom="40" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="Win32" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="MSTaskListWClass" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="tool bar" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Running_applications" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="OneNote_1_running_window" Key="{E9545D99-978B-4FD6-B963-B865D1877AB3}">
+																<Image FileName="-850198597" Left="828" Top="0" Right="877" Bottom="40" />
+																<TypeInfo Item0="{89A0F7F3-0B31-43E3-9EED-ACEB82BB7B80}" />
+																<Properties>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="button" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="OneNote_1_running_window" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="Microsoft_WindowsCalculator" Owner="{FCAC0841-280A-4DA3-812B-8AA856A11D75}">
+			<Child Name="Calculator" Owner="{37CDCA96-1E6E-4BD1-A1D5-867ADF4F2A6E}" />
+		</Child>
+		<Child Name="Postman" Owner="{43704048-2945-4642-B131-70CE3DAFEE39}">
+			<Child Name="get_aaaaa" Owner="{21777E8A-E518-4DF4-8288-34A95D48CDE0}">
+				<Child Name="Chrome_Legacy_Window" Owner="{BB133958-8A80-4D4B-8FAB-8953510143CF}" />
+			</Child>
+		</Child>
+		<Child Name="ONENOTE" Owner="{56412B1E-5ED1-4C1F-80CB-024EE8F743DF}">
+			<Child Name="Samp_OneNote" Owner="{32869EB5-FFE9-4AAC-8486-5CC657A5C6C5}">
+				<Child Name="OneNote_MainWindow" Owner="{DA226324-A60C-46AB-B164-5CED0B899639}">
+					<Child Name="OneNote_NavigationUI" Owner="{3E652CF0-C63C-47A6-AB41-C7BDC240FAE0}">
+						<Child Name="OneNote_NavigationUIHost" Owner="{04664428-D702-4AAB-8E5E-63D0BEB28AB4}">
+							<Child Name="NetUIHWNDElement" Owner="{7AD3F96C-5E4D-46F8-8E3D-887F480B4D10}">
+								<Child Name="New_Section_1" Owner="{DBD17418-E1EA-4621-AFA2-66433D371FE9}" />
+								<Child Name="Section_Name_Textbox" Owner="{2D3EF7A9-3C1C-4C9A-B1CC-EF813E606170}">
+									<Child Name="RichEdit_Control" Owner="{787FC53E-2ECE-491F-BF4D-FEEE7E11031E}" />
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="OneNote_CWorkspace" Owner="{4BB152F1-F903-435F-ABC2-F5BDE71BF941}">
+						<Child Name="OneNote_Page" Owner="{CA1C68F3-51AF-4102-ABB1-584B5A464552}">
+							<Child Name="Samp" Owner="{C39FE583-F39E-4C0D-AC62-50A3116F630D}">
+								<Child Name="Page_title" Owner="{7D815D08-4679-4CD9-B3E5-B2E58DDD07B6}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="Net_UI_Tool_Window" Owner="{99348F19-3BC4-42DA-8F97-3AFF4FC67EF7}">
+				<Child Name="NetUIToolWindow" Owner="{61356A3D-0884-4535-82B7-6894D2705C71}">
+					<Child Name="Rename" Owner="{DF76090E-7BAB-4FFC-ACA6-B73A2BD1CA29}" />
+					<Child Name="New_Section" Owner="{48293A5D-6B85-42E8-A364-654574FD838D}" />
+					<Child Name="Delete" Owner="{643A753C-2105-4BDB-961C-41D4478CF505}" />
+				</Child>
+				<Child Name="NetUIToolWindow2" Owner="{EAA46907-04D6-4223-A74B-099C1F1A6E80}">
+					<Child Name="New_Section" Owner="{4758A82C-43A0-4100-A50A-BFE74FFF2D78}" />
+				</Child>
+			</Child>
+			<Child Name="PC_and_Testing_Device_details_OneNote" Owner="{DCC2A439-D1E9-4608-822A-FF57B237A901}">
+				<Child Name="OneNote_MainWindow" Owner="{C853977B-A27D-46D3-9829-42BE02EF8FC2}">
+					<Child Name="OneNote_NavigationUI" Owner="{424FDE44-0CF4-4CD2-AF5F-DAE14B2D111B}">
+						<Child Name="OneNote_NavigationUIHost" Owner="{9D480EB6-C418-46E9-BCC7-D97D9CD2DA62}">
+							<Child Name="NetUIHWNDElement" Owner="{54B73284-2367-4433-9A28-C9C78AD650FA}">
+								<Child Name="sample" Owner="{5315C46E-F762-4913-A2B8-02327390D316}" />
+								<Child Name="DF_PAC" Owner="{82CA4D83-777B-46E4-BC33-5655D5BC1AAA}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="OneNote" Owner="{49C60757-76F5-45D4-837B-C5BD4BC80A70}">
+				<Child Name="OneNote_MainWindow" Owner="{152DF84A-E297-4FD5-8B7D-A31E3ACFA92C}">
+					<Child Name="OneNote_NavigationUI" Owner="{043F64D2-AB1D-4FA7-9718-F151C26DACAC}">
+						<Child Name="OneNote_NavigationUIHost" Owner="{E8612C62-5EF7-4A04-9B9A-98921BB5C8F8}">
+							<Child Name="NetUIHWNDElement" Owner="{ACA48784-2E24-4078-B1C0-1CA1B811F63D}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="TODO_LIST_OneNote" Owner="{2331034F-7A64-4A62-88A4-BDCB7AE5AD24}">
+				<Child Name="OneNote_MainWindow" Owner="{A76DC02F-C32E-4BD8-A46E-E71EC65731C7}">
+					<Child Name="OneNote_NavigationUI" Owner="{C46111D9-1F10-447E-973C-EAC5BEBE90F8}">
+						<Child Name="OneNote_NavigationUIHost" Owner="{94113818-3A04-4508-BF74-6F8CC20F2D84}">
+							<Child Name="NetUIHWNDElement" Owner="{E5AEA4B2-8DB8-4F6F-AE8E-19CD1AE2FD9D}">
+								<Child Name="sample" Owner="{D059BBBB-5F15-433C-8023-5A0EB3C6CB19}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="Untitled_page_OneNote" Owner="{66C99359-A1C3-47D1-89AE-C27432BDCB99}">
+				<Child Name="OneNote_MainWindow" Owner="{28F7BBCC-D916-4B91-B354-B90DFFE401EE}">
+					<Child Name="OneNote_NavigationUI" Owner="{9B8CFA04-1511-482B-A8B0-0CC6DB677023}">
+						<Child Name="OneNote_NavigationUIHost" Owner="{7F71EFC1-3BEE-4FF9-AC2D-9E9ABEAC18E8}">
+							<Child Name="NetUIHWNDElement" Owner="{335506FC-2884-4202-97A0-ED2AE583A561}">
+								<Child Name="New_Section_1" Owner="{9DC42282-83DD-4FA9-A000-F757FBB6EF02}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="TODO_LIST2_OneNote" Owner="{4C8C393D-75E5-4F18-891B-94B8AA5D5A14}">
+				<Child Name="OneNote_MainWindow" Owner="{5678FEA4-D55A-4303-BBAF-FECD85540D66}">
+					<Child Name="OneNote_NavigationUI" Owner="{ABDCC183-4BE8-450B-AC06-85A1AD930123}">
+						<Child Name="OneNote_NavigationUIHost" Owner="{CC407B60-E438-42AF-BF1F-C082059A863A}">
+							<Child Name="NetUIHWNDElement" Owner="{D19B8223-6208-40F7-BAEA-534D5F76B78A}">
+								<Child Name="DF_PAC" Owner="{ECAAC6F7-1577-4CEB-A319-9812099E0D49}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="explorer" Owner="{309721EF-554B-4299-8BC7-500512C4FE11}">
+			<Child Name="Shell_TrayWnd" Owner="{D609809F-CE02-4FA5-902B-CB81FDFAB5A7}">
+				<Child Name="ReBarWindow32" Owner="{4466A506-E45F-4F5A-995A-CA19D0F5D0EB}">
+					<Child Name="Running_applications" Owner="{547DC62D-D29E-47BE-8199-C65CB490C150}">
+						<Child Name="Running_applications" Owner="{692C88A7-A18A-4EC5-8132-69F0B0F9B33F}">
+							<Child Name="OneNote_1_running_window" Owner="{E9545D99-978B-4FD6-B963-B865D1877AB3}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

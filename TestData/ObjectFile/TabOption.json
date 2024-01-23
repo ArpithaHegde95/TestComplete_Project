@@ -1,0 +1,24 @@
+{
+  "Obj_TabOption1":{
+    "PAGE":"TabOption",
+    "ObjectName":"Obj_TabOption1",
+    "PropertyName1":"Name",
+    "PropertyValue1":"TextObject(\"SampleApplication1\")",
+    "PropertyName2":"Visible",
+    "PropertyValue2":"True",
+    "PropertyName3":"NULL",
+    "PropertyValue3":"NULL",
+    "Level":10
+  },
+  "Obj_TabOption2":{
+    "PAGE":"TabOption",
+    "ObjectName":"Obj_TabOption2",
+    "PropertyName1":"Name",
+    "PropertyValue1":"TextObject(\"SampleApplication2\")",
+    "PropertyName2":"Visible",
+    "PropertyValue2":"True",
+    "PropertyName3":"NULL",
+    "PropertyValue3":"NULL",
+    "Level":10
+  }
+}
